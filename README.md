@@ -11,3 +11,4 @@ Se lista el contenido del directorio actual:
 1. .gitignore
 2. README.md
 3. clave.txt
+4. Ejemplo commit
